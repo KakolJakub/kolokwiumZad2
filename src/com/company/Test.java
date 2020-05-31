@@ -1,4 +1,9 @@
 package com.company;
 
-public class test {
+public class Test {
+
+    void testM ()
+    {
+        System.out.println("test");
+    }
 }
